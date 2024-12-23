@@ -1,0 +1,14 @@
+C:\c#\LOOP\obj\Debug\net8.0\LOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\LOOP\obj\Debug\net8.0\LOOP.AssemblyInfoInputs.cache
+C:\c#\LOOP\obj\Debug\net8.0\LOOP.AssemblyInfo.cs
+C:\c#\LOOP\obj\Debug\net8.0\LOOP.csproj.CoreCompileInputs.cache
+C:\c#\LOOP\bin\Debug\net8.0\LOOP.exe
+C:\c#\LOOP\bin\Debug\net8.0\LOOP.deps.json
+C:\c#\LOOP\bin\Debug\net8.0\LOOP.runtimeconfig.json
+C:\c#\LOOP\bin\Debug\net8.0\LOOP.dll
+C:\c#\LOOP\bin\Debug\net8.0\LOOP.pdb
+C:\c#\LOOP\obj\Debug\net8.0\LOOP.dll
+C:\c#\LOOP\obj\Debug\net8.0\refint\LOOP.dll
+C:\c#\LOOP\obj\Debug\net8.0\LOOP.pdb
+C:\c#\LOOP\obj\Debug\net8.0\LOOP.genruntimeconfig.cache
+C:\c#\LOOP\obj\Debug\net8.0\ref\LOOP.dll

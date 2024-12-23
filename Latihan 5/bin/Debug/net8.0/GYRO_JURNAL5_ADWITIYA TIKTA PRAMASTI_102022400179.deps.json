@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GYRO_JURNAL5_ADWITIYA TIKTA PRAMASTI_102022400179/1.0.0": {
+        "runtime": {
+          "GYRO_JURNAL5_ADWITIYA TIKTA PRAMASTI_102022400179.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GYRO_JURNAL5_ADWITIYA TIKTA PRAMASTI_102022400179/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
