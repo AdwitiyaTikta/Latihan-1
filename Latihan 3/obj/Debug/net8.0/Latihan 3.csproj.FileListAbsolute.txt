@@ -1,0 +1,14 @@
+C:\c#\Latihan 3\bin\Debug\net8.0\Latihan 3.exe
+C:\c#\Latihan 3\bin\Debug\net8.0\Latihan 3.deps.json
+C:\c#\Latihan 3\bin\Debug\net8.0\Latihan 3.runtimeconfig.json
+C:\c#\Latihan 3\bin\Debug\net8.0\Latihan 3.dll
+C:\c#\Latihan 3\bin\Debug\net8.0\Latihan 3.pdb
+C:\c#\Latihan 3\obj\Debug\net8.0\Latihan 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Latihan 3\obj\Debug\net8.0\Latihan 3.AssemblyInfoInputs.cache
+C:\c#\Latihan 3\obj\Debug\net8.0\Latihan 3.AssemblyInfo.cs
+C:\c#\Latihan 3\obj\Debug\net8.0\Latihan 3.csproj.CoreCompileInputs.cache
+C:\c#\Latihan 3\obj\Debug\net8.0\Latihan 3.dll
+C:\c#\Latihan 3\obj\Debug\net8.0\refint\Latihan 3.dll
+C:\c#\Latihan 3\obj\Debug\net8.0\Latihan 3.pdb
+C:\c#\Latihan 3\obj\Debug\net8.0\Latihan 3.genruntimeconfig.cache
+C:\c#\Latihan 3\obj\Debug\net8.0\ref\Latihan 3.dll
