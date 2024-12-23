@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aktivitas 7_SI4809_102022400179_Adwitiya/1.0.0": {
+        "runtime": {
+          "Aktivitas 7_SI4809_102022400179_Adwitiya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aktivitas 7_SI4809_102022400179_Adwitiya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.exe
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.deps.json
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.runtimeconfig.json
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.dll
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.pdb
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.AssemblyInfoInputs.cache
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.AssemblyInfo.cs
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.csproj.CoreCompileInputs.cache
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.dll
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\refint\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.dll
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.pdb
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.genruntimeconfig.cache
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta\obj\Debug\net8.0\ref\Aktivitas 7_SI4809_102022400179_Adwitiya Tikta.dll

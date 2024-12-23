@@ -1,0 +1,14 @@
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.exe
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.deps.json
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.runtimeconfig.json
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.dll
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\bin\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.pdb
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.AssemblyInfoInputs.cache
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.AssemblyInfo.cs
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.csproj.CoreCompileInputs.cache
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.dll
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\refint\Aktivitas 7_SI4809_102022400179_Adwitiya.dll
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.pdb
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\Aktivitas 7_SI4809_102022400179_Adwitiya.genruntimeconfig.cache
+C:\c#\Aktivitas 7_SI4809_102022400179_Adwitiya\obj\Debug\net8.0\ref\Aktivitas 7_SI4809_102022400179_Adwitiya.dll

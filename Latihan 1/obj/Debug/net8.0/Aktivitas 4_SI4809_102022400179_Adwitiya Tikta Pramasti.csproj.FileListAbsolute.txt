@@ -1,0 +1,14 @@
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\bin\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.exe
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\bin\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.deps.json
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\bin\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.runtimeconfig.json
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\bin\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.dll
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\bin\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.pdb
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.AssemblyInfoInputs.cache
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.AssemblyInfo.cs
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.csproj.CoreCompileInputs.cache
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.dll
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\refint\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.dll
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.pdb
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.genruntimeconfig.cache
+C:\c#\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti\obj\Debug\net8.0\ref\Aktivitas 4_SI4809_102022400179_Adwitiya Tikta Pramasti.dll
