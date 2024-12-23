@@ -1,0 +1,14 @@
+C:\c#\Jurnal 3\bin\Debug\net8.0\Jurnal 3.exe
+C:\c#\Jurnal 3\bin\Debug\net8.0\Jurnal 3.deps.json
+C:\c#\Jurnal 3\bin\Debug\net8.0\Jurnal 3.runtimeconfig.json
+C:\c#\Jurnal 3\bin\Debug\net8.0\Jurnal 3.dll
+C:\c#\Jurnal 3\bin\Debug\net8.0\Jurnal 3.pdb
+C:\c#\Jurnal 3\obj\Debug\net8.0\Jurnal 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Jurnal 3\obj\Debug\net8.0\Jurnal 3.AssemblyInfoInputs.cache
+C:\c#\Jurnal 3\obj\Debug\net8.0\Jurnal 3.AssemblyInfo.cs
+C:\c#\Jurnal 3\obj\Debug\net8.0\Jurnal 3.csproj.CoreCompileInputs.cache
+C:\c#\Jurnal 3\obj\Debug\net8.0\Jurnal 3.dll
+C:\c#\Jurnal 3\obj\Debug\net8.0\refint\Jurnal 3.dll
+C:\c#\Jurnal 3\obj\Debug\net8.0\Jurnal 3.pdb
+C:\c#\Jurnal 3\obj\Debug\net8.0\Jurnal 3.genruntimeconfig.cache
+C:\c#\Jurnal 3\obj\Debug\net8.0\ref\Jurnal 3.dll

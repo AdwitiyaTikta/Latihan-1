@@ -1,0 +1,4 @@
+C:\c#\Jurnal 3\obj\Debug\net8.0\GYRO_JURNAL3_ADWITIYA TIKTA PRAMASTI_102022400179.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Jurnal 3\obj\Debug\net8.0\GYRO_JURNAL3_ADWITIYA TIKTA PRAMASTI_102022400179.AssemblyInfoInputs.cache
+C:\c#\Jurnal 3\obj\Debug\net8.0\GYRO_JURNAL3_ADWITIYA TIKTA PRAMASTI_102022400179.AssemblyInfo.cs
+C:\c#\Jurnal 3\obj\Debug\net8.0\GYRO_JURNAL3_ADWITIYA TIKTA PRAMASTI_102022400179.csproj.CoreCompileInputs.cache
