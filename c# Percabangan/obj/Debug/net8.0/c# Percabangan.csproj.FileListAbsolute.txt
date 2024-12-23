@@ -1,0 +1,14 @@
+C:\c#\c# Percabangan\bin\Debug\net8.0\c# Percabangan.exe
+C:\c#\c# Percabangan\bin\Debug\net8.0\c# Percabangan.deps.json
+C:\c#\c# Percabangan\bin\Debug\net8.0\c# Percabangan.runtimeconfig.json
+C:\c#\c# Percabangan\bin\Debug\net8.0\c# Percabangan.dll
+C:\c#\c# Percabangan\bin\Debug\net8.0\c# Percabangan.pdb
+C:\c#\c# Percabangan\obj\Debug\net8.0\c# Percabangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\c# Percabangan\obj\Debug\net8.0\c# Percabangan.AssemblyInfoInputs.cache
+C:\c#\c# Percabangan\obj\Debug\net8.0\c# Percabangan.AssemblyInfo.cs
+C:\c#\c# Percabangan\obj\Debug\net8.0\c# Percabangan.csproj.CoreCompileInputs.cache
+C:\c#\c# Percabangan\obj\Debug\net8.0\c# Percabangan.dll
+C:\c#\c# Percabangan\obj\Debug\net8.0\refint\c# Percabangan.dll
+C:\c#\c# Percabangan\obj\Debug\net8.0\c# Percabangan.pdb
+C:\c#\c# Percabangan\obj\Debug\net8.0\c# Percabangan.genruntimeconfig.cache
+C:\c#\c# Percabangan\obj\Debug\net8.0\ref\c# Percabangan.dll

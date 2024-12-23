@@ -1,0 +1,14 @@
+C:\c#\c# Perulangan\bin\Debug\net8.0\c# Perulangan.exe
+C:\c#\c# Perulangan\bin\Debug\net8.0\c# Perulangan.deps.json
+C:\c#\c# Perulangan\bin\Debug\net8.0\c# Perulangan.runtimeconfig.json
+C:\c#\c# Perulangan\bin\Debug\net8.0\c# Perulangan.dll
+C:\c#\c# Perulangan\bin\Debug\net8.0\c# Perulangan.pdb
+C:\c#\c# Perulangan\obj\Debug\net8.0\c# Perulangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\c# Perulangan\obj\Debug\net8.0\c# Perulangan.AssemblyInfoInputs.cache
+C:\c#\c# Perulangan\obj\Debug\net8.0\c# Perulangan.AssemblyInfo.cs
+C:\c#\c# Perulangan\obj\Debug\net8.0\c# Perulangan.csproj.CoreCompileInputs.cache
+C:\c#\c# Perulangan\obj\Debug\net8.0\c# Perulangan.dll
+C:\c#\c# Perulangan\obj\Debug\net8.0\refint\c# Perulangan.dll
+C:\c#\c# Perulangan\obj\Debug\net8.0\c# Perulangan.pdb
+C:\c#\c# Perulangan\obj\Debug\net8.0\c# Perulangan.genruntimeconfig.cache
+C:\c#\c# Perulangan\obj\Debug\net8.0\ref\c# Perulangan.dll
